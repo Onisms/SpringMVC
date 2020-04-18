@@ -1,0 +1,3 @@
+com\galaxy\web\controller\UserController.class
+com\galaxy\web\interceptor\FirstInterceptor.class
+com\galaxy\web\interceptor\SecondInterceptor.class
